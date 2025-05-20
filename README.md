@@ -1,4 +1,4 @@
-"# Classificateur BERT pour l'Origine des Films Basé sur leur Synopsis" 
+# Classificateur BERT pour l'Origine des Films Basé sur leur Synopsis
 
 Ce projet implémente un classificateur qui utilise un modèle BERT pour prédire l'origine ou l'ethnicité d'un film à partir de sa description ou synopsis.
 
@@ -81,4 +81,8 @@ Sauvegarde du modèle:
 Le modèle entraîné est sauvegardé sous bert_movie_plot_classifier.pt
 
 # Captures d'écran
+![image](https://github.com/user-attachments/assets/49f46fb8-2b2d-4a4f-95da-8a8d6a2beb4b)
+
+![image](https://github.com/user-attachments/assets/d9d9ff27-80e6-42e0-ac22-bfe78935b1dc)
+
 
